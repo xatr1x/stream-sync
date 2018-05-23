@@ -1,0 +1,14 @@
+{
+  "name": "stream-sync",
+  "version": "1.0.0",
+  "description": "",
+  "main": "sign-in.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "VS",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.87.0"
+  }
+}
